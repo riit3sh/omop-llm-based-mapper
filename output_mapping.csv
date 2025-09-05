@@ -1,0 +1,4 @@
+CONCEPT_ID,CODE,NAME,REASON
+12345,FAKE-001,Mock Concept,Mock mapped 'Blood Pressure' to a fake concept.
+12345,FAKE-001,Mock Concept,Mock mapped 'Aspirin' to a fake concept.
+12345,FAKE-001,Mock Concept,Mock mapped 'Heart Rate' to a fake concept.

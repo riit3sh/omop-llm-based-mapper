@@ -1,0 +1,2 @@
+langchain-community>=0.0.20
+llama-cpp-python>=0.2.0

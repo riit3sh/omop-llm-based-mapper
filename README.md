@@ -1,4 +1,4 @@
-# OMOP Clinical Mapper (LLN EDITION)
+# OMOP Clinical Mapper (LLM EDITION)
 
 A local LLM-powered clinical term mapper for OMOP Common Data Model concepts using Mistral-7B. Maps medical terminology to standardized OMOP concept IDs with SNOMED CT, ICD-10, LOINC, and other vocabulary codes.
 
